@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5431182",
+      "name": "退换货",
+      "font_class": "tuihuanhuo",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "10828994",
+      "name": "我 的",
+      "font_class": "wode",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "12105267",
+      "name": "正品徽章",
+      "font_class": "zhengpinhuizhang",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "17408076",
+      "name": "日期",
+      "font_class": "riqi",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "18166490",
+      "name": "人民币",
+      "font_class": "rmb",
+      "unicode": "e8c4",
+      "unicode_decimal": 59588
+    }
+  ]
+}
