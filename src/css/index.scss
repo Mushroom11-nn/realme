@@ -1,0 +1,41 @@
+@import './modules/common.scss';
+@import './modules/head.scss';
+@import './modules/footer.scss';
+.banner {
+    width: 1280px;
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.banner-img {
+    width: 8960px;
+    height: 500px;
+    position: absolute;
+}
+
+.banner-img img {
+    height: 500px;
+    width: 1280px;
+    float: left;
+}
+
+.banner-btn {
+    position: absolute;
+    bottom: 50px;
+    top: 500px;
+    left: 50%;
+    height: 30px;
+}
+
+.banner-btn button {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: #999;
+}
+
+.banner-btn button.active {
+    background: pink;
+}
